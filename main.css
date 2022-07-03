@@ -26,6 +26,7 @@ footer, header, nav, section, video {
 	
 h1 {
 	font-size: 1.4rem;
+    color: blue
 }
 	/* begins to set up font sizes relative to base rem – h1 has been used as an example */
 	
