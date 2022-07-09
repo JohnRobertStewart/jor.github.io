@@ -166,4 +166,39 @@ button:hover{
 	background-color: transparent;
 	border: 2px solid #7f34f8e3;
 	cursor: pointer;
+	text-decoration: none;
+	
+}
+
+.service{
+	background: #101010;
+	width: 100%;
+	padding: 100px;
+}
+
+.title h2{
+	color: whitesmoke;
+	font-size: 75px;
+	width: 1130px;
+	margin:  30px auto;
+	text-align: center;
+}
+
+.box{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 400px;
+}
+
+.card{
+	height: 365px;
+	width: 335px;
+	padding: 30px 35px;
+	background: #191919 ;
+	border-radius: 20px;
+	margin: 15px;
+	position: relative;
+	overflow: hidden;
+	text-align: center;
 }
