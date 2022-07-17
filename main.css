@@ -69,6 +69,7 @@ nav ul li a:hover{
 	left: 8%;
 	transform: translateY(-50%);
 }
+
 h1{
 	color:aliceblue;
 	margin: 20px 0px 20px;
@@ -201,4 +202,5 @@ button:hover{
 	position: relative;
 	overflow: hidden;
 	text-align: center;
+	justify-content: center;
 }
