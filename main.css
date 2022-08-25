@@ -88,31 +88,7 @@ h4{
 	font-size: 20px;
 	margin-bottom: 25px;
 }
-.emailMe form{
-	width: 380px;
-	max-width: 100%;
-	position: relative;
-}
-.emailMe form input:first-child{
-	display: inline-block;
-	 width: 100%;
-	 padding: 14px 130px 14px 15px;	 
-	 border: 2px solid #7f34f8e3;
-	 border-radius: 30px;
-}
-.emailMe form input:last-child{
-	position: absolute;
-	display: inline-block;
-	outline: none;
-	border: none;
-	padding: 10px 30px;
-	border-radius: 30px;
-	background-color: #7f34f8e3;
-	color: white;
-	box-shadow: 0px 0px 5px #000, 0px 0px 15px #858585;
-	top: 6px;
-	right: 6px;	
-}
+
 
 .about{
 	width: 100%;
@@ -141,13 +117,7 @@ h4{
 	text-transform: capitalize;
 	margin-bottom: 20px;
 }
-.about-text h5{
-	color: wheat;
-	letter-spacing: 2px;
-	font-size: 22px;
-	margin-bottom: 25px;
-	text-transform: capitalize;
-}
+
 .about-text p{
 	color: #fcfc;
 	letter-spacing: 1px;
@@ -170,12 +140,6 @@ button:hover{
 	cursor: pointer;
 	text-decoration: none;
 	
-}
-
-.service{
-	background: #101010;
-	width: 100%;
-	padding: 100px;
 }
 
 .title h2{
