@@ -1,7 +1,7 @@
 import React from 'react';
-import HeroImage from '/home/jor/Documents/GitHub/wobsite/wobsite/src/assets/hero.png'
 import {RiArrowRightCircleFill} from 'react-icons/ri';
- 
+//import HeroImage from 'src\assets\hero.png'
+
 const Home = () => {
   return (
     <div>
