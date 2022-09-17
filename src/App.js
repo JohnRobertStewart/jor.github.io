@@ -4,8 +4,8 @@ import NavBar from './assets/components/NavBar';
 import About from './assets/components/About';
 import Contact from './assets/components/Contact';
 import Portfolio from './assets/components/Portfolio';
-import './index.css';
 import SocialLinks from './assets/components/SocialLinks';
+import './index.css';
 
 function App() {
   return (

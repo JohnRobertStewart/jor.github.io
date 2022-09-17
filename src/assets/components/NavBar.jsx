@@ -8,26 +8,34 @@ const NavBar = () => {
   const links = [
   {
     id: 1,
-    link: 'home'
+    link: 'Home'
   },
   {
     id: 2,
-    link: 'about'
+    link: 'About'
   },
   {
     id: 3,
-    link: 'portfolio'
+    link: 'Experience'
   },
   {
     id: 4,
-    link: 'contact'
+    link: 'Contact'
+  },
+  {
+    id: 5,
+    link: 'Portfolio'
+  },
+  {
+    id: 6,
+    link: 'SocialLinks'
   },
 ]
   return (
   <div class="flex justify-between items-center w-full h-20 
  px-4 text-white bg-black fixed">
     <div>
-        <h1 className="text-5xl font-signature ml-2"> Jor </h1>
+        <h1 className="text-5xl font-signature ml-2"> John Stewart </h1>
     </div>
 
       <ul className="hidden md:flex">
