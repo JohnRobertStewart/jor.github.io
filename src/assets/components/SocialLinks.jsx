@@ -9,10 +9,11 @@ const SocialLinks = () => {
       id: 1,
       child: (
         <>
-          LinkedIn <FaLinkedin size={30} />
+        LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://linkedin.com",
+      href: "www.linkedin.com/in/john-robert-stewart"
+     ,
       style: "rounded-tr-md",
     },
     {
@@ -31,19 +32,9 @@ const SocialLinks = () => {
           Mail <HiOutlineMail size={30} />
         </>
       ),
-      href: "johnrobertstewart@protonmail.com",
+      href: "https://getform.io/f/be3a78e6-17c9-415a-a789-59fe950c0f8c",
     },
-    {
-      id: 4,
-      child: (
-        <>
-          Resume <BsFillPersonLinesFill size={30} />
-        </>
-      ),
-      href: "/resume.pdf",
-      style: "rounded-br-md",
-      download: true,
-    },
+   
   ];
 
   return (
