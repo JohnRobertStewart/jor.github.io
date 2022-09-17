@@ -5,6 +5,7 @@ import About from './assets/components/About';
 import Contact from './assets/components/Contact';
 import Portfolio from './assets/components/Portfolio';
 import './index.css';
+import SocialLinks from './assets/components/SocialLinks';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <About />
       <Portfolio />
       <Contact />
+      <SocialLinks/>
     </div>
   );
 }
