@@ -9,16 +9,15 @@ const About = () => {
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">
-            About
+          About
           </p>
         </div>
 
-        <p className="text-xl mt-20">
-          Hello ! My name is John, and I used to code for fun and work as a live demonstrator, like Sham WOW. 
-          I'm getting to old for that, so I decided it's easier to code from the beach and make websites for 
+        <p className="text-xl mt-5">
+          Hey there ! My name is John, and I used to code for fun and work as a live demonstrator, a salesman. 
+          I'm getting too old for that, so I decided it's easier to code from the beach and make websites for 
           you instead. 
         </p>
-
         <br />
 
         <p className="text-xl">

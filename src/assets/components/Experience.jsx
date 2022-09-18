@@ -1,13 +1,15 @@
 import React from "react";
 
-import html from "../assets/html.png";
-import css from "../assets/css.png";
-import javascript from "../assets/javascript.png";
-import reactImage from "../assets/react.png";
-import nextjs from "../assets/nextjs.png";
-import graphql from "../assets/graphql.png";
-import github from "../assets/github.png";
-import tailwind from "../assets/tailwind.png";
+import html from "../experience/html.png";
+import css from "../experience/css.png";
+import javascript from "../experience/javascript.png";
+import reactImage from "../experience/react.png";
+import nextjs from "../experience/nextjs.png";
+import graphql from "../experience/graphql.png";
+import github from "../experience/github.png";
+import tailwind from "../experience/tailwind.png";
+import unity from "../experience/unity.png"
+
 
 const Experience = () => {
   const techs = [
@@ -57,6 +59,12 @@ const Experience = () => {
       id: 8,
       src: github,
       title: "GitHub",
+      style: "shadow-gray-400",
+    },
+    {
+      id: 8,
+      src: unity,
+      title: "Unity",
       style: "shadow-gray-400",
     },
   ];

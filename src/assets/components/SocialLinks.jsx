@@ -30,17 +30,18 @@ const SocialLinks = () => {
       child: (
         <>
           Mail <HiOutlineMail size={30} />
+          
         </>
       ),
-      href: "https://getform.io/f/be3a78e6-17c9-415a-a789-59fe950c0f8c",
+      href: "mailto:johnrobertstewart@protonmail.com",
+      style: 'rounded-br-md'
     },
-   
   ];
 
   return (
     <div className="hidden lg:flex flex-col top-[35%] left-0 fixed">
       <ul>
-        {links.map(({ id, child, href, style, download }) => (
+        {links.map(({ id, child, href, style,}) => (
           <li
             key={id}
             className={
@@ -51,8 +52,7 @@ const SocialLinks = () => {
           >
             <a
               href={href}
-              className="flex justify-between items-center w-full text-white"
-              download={download}
+              className="flex justify-between items-center w-full text-white"              
               target="_blank"
               rel="noreferrer"
             >
