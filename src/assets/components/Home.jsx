@@ -8,15 +8,18 @@ const Home = () => {
   return (
     <div
       name="home"
-      className="h-screen w-full bg-gradient-to-b
-     from-black via-black to-gray-800"
+      className="w-full bg-gradient-to-b
+     from-black via-black to-gray-800 "
     >
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full px-4">
           <h2 className="py-8 text-4xl sm:text-4x1 font-bold text-white">
-            Full stack dev; Let me build your next website
+            Full stack dev; <br>
+            </br>
+            <p className="flex justify-items-start py-3"> Let me build your next website
+            </p>
           </h2>
-          <p className="text-gray-500 py-4 min-w-full">
+          <p className="text-gray-500 py-1 min-w-full">
             I have experience building and desgining websites, and full stack applications.
             Currently, I'm working on web apps and buisness websites using
             React, Tailwind, NodeJS and games using Unity.
@@ -42,6 +45,7 @@ const Home = () => {
             src = {heroImage}
             alt = "my profile"
             className="rounded-3xl mx-auto py-6 px-4 w-2/3 md:w-full md:h-full"
+            
           />
         </div>
       </div>
