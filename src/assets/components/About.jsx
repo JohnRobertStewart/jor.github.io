@@ -21,7 +21,7 @@ const About = () => {
         <br />
 
         <p className="text-xl">
-          I live on the West Coast near Vancouver Canada, so we can meet for a coffee chat or a beer if you're local. 
+          I live on the West Coast near Vancouver Canada, so we can meet for a coffee chat if you're local, or online. 
           All I need to get started is a basic framework of what you want your site to look like, and some reference pictures
           of your business and you and your staff (don't be shy!).
         </p>
