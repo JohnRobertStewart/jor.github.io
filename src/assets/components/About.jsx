@@ -14,9 +14,12 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-5 h-fit">
-          Hey there ! My name is John, and I used to code for fun and work as a live demonstrator, a salesman. 
-          I'm getting too old for that, so I decided it's easier to code from the beach and make websites for 
-          you instead. 
+        Hello! John here, I started coding with LOGO way back in middle schoo, my interest in tech has always been
+         both hardware and software. I've been building my own computers and hobby projects for as long as I can remember, 
+         as for coding, from MODing games to using Visual Basic in highschool, and Unity in my 20's I've always had a personal interest.
+         Now that I've definitively decided to put that hobby into practice as a career, I'd love to discuss working to develop 
+         software to make the world a better place with you. 
+        
         </p>
         <br />
 
