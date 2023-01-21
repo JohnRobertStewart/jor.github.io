@@ -4,11 +4,11 @@ import html from "../experience/html.png";
 import css from "../experience/css.png";
 import javascript from "../experience/javascript.png";
 import reactImage from "../experience/react.png";
-import nextjs from "../experience/nextjs.png";
-import graphql from "../experience/graphql.png";
 import github from "../experience/github.png";
 import tailwind from "../experience/tailwind.png";
 import unity from "../experience/unity.png"
+import sql from "../experience/sql.png";
+import node from "../experience/node.png";
 
 
 const Experience = () => {
@@ -45,14 +45,14 @@ const Experience = () => {
     },
     {
       id: 6,
-      src: nextjs,
-      title: "Next JS",
+      src: sql,
+      title: "SQL",
       style: "shadow-white",
     },
     {
       id: 7,
-      src: graphql,
-      title: "GraphQL",
+      src: node,
+      title: "Node",
       style: "shadow-pink-400",
     },
     {

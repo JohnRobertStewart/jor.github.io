@@ -24,9 +24,9 @@ const About = () => {
         <br />
 
         <p className="text-xl">
-          I live on the West Coast near Vancouver Canada, so we can meet for a coffee chat if you're local, or online. 
-          All I need to get started is a basic framework of what you want your site to look like, and some reference pictures
-          of your business and you and your staff (don't be shy!).
+          I live on the West Coast near Vancouver Canada, so we can meet for a coffee chat if you're local, or online if you aren't. 
+          All I need to get started is a basic framework of what you want, what technologies you work with and a frame of the software
+          you would like to build, or the data you would like to work with. 
         </p>
       </div>
     </div>

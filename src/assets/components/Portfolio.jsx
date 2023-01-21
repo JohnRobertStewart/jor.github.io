@@ -1,37 +1,13 @@
 import React from "react";
 import arrayDestruct from '../portfolio/arrayDestruct.jpg';
-import installNode from '../portfolio/installNode.jpg';
-import navbar from '../portfolio/navbar.jpg';
-import reactParallax from '../portfolio/reactParallax.jpg';
-import reactSmooth from '../portfolio/reactSmooth.jpg';
-import reactWeather from '../portfolio/reactWeather.jpg';
+
 
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
       src: arrayDestruct,
-    },
-    {
-      id: 2,
-      src: reactParallax,
-    },
-    {
-      id: 3,
-      src: navbar,
-    },
-    {
-      id: 4,
-      src: reactSmooth,
-    },
-    {
-      id: 5,
-      src: installNode,
-    },
-    {
-      id: 6,
-      src: reactWeather,
-    },
+    } 
   ];
 
   return (
@@ -44,7 +20,7 @@ const Portfolio = () => {
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">
             Portfolio
           </p>
-          <p className="py-6">Check out some of my work right here</p>
+          <p className="py-6">Check out my github</p>
         </div>
 
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">

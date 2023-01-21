@@ -16,13 +16,13 @@ const Home = () => {
           <h2 className="py-8 text-4xl sm:text-4x1 font-bold text-white">
             Full stack dev; <br>
             </br>
-            <p className="flex justify-items-start py-3"> Let me build your next website
+            <p className="flex justify-items-start py-3"> From Fullstack to any app.  
             </p>
           </h2>
           <p className="text-gray-500 py-1 min-w-full">
-            I have experience building and desgining websites, and full stack applications.
-            Currently, I'm working on web apps and buisness websites using
-            React, Tailwind, NodeJS and games using Unity.
+            I've worked with JS, NodeJS, React, MongoDB, and the basics too. I'd love to learn new technologies
+            and to work with you, whatever the stack. 
+
           </p>
 
           <div>
