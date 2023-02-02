@@ -14,7 +14,7 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-5 h-fit">
-        Hello! John here, I started coding with LOGO way back in middle schoo, my interest in tech has always been
+         Hello! John here, I started coding with LOGO way back in middle schoolgt, my interest in tech has always been
          both hardware and software. I've been building my own computers and hobby projects for as long as I can remember, 
          as for coding, from MODing games to using Visual Basic in highschool, and Unity in my 20's I've always had a personal interest.
          Now that I've definitively decided to put that hobby into practice as a career, I'd love to discuss working to develop 
