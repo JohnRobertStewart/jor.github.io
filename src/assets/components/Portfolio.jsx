@@ -1,12 +1,12 @@
 import React from "react";
-import arrayDestruct from '../portfolio/arrayDestruct.jpg';
+import chad from '../portfolio/chad.png';
 
 
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: arrayDestruct,
+      src: chad,
     } 
   ];
 
